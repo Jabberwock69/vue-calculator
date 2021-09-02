@@ -1,0 +1,18 @@
+body{
+    background: rgb(14, 58, 29);
+}
+.square{
+    max-width: 400px;
+    margin: 50px auto;
+    background: #234;
+}
+.bg-vue-dark{
+    background: #31745e;
+}
+.hover-class:hover {
+    cursor: pointer;
+    background: #3D5875;
+  }
+  .bg-vue-green {
+    background: #3fb984;
+  }
